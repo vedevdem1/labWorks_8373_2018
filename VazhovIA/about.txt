@@ -1,0 +1,1 @@
+Student of eltech, young bidlocoder. Tried arduino, esp8266, some python stuff and bash scripting.
